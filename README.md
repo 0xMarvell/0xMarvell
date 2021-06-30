@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Marvellous</h1>
-<h3 align="center">I'm a passionate Back End Developer from Nigeria.</h3>
+<h3 align="center">Back End Developer on weekdays,  Point Guard on weekends :basketball:.</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -42,8 +42,8 @@
 ### Connect with me:
 
 <p align="left">
-  <a href = "https://www.linkedin.com/in/marvellous-chimaraoke-3aa056208"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href = "https://twitter.com/RokeMarvellous"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+  <a href = "https://www.linkedin.com/in/marvellous-chimaraoke-3aa056208" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href = "https://twitter.com/RokeMarvellous" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
 ### Views
