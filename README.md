@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I love anime, basketball, video games and spaghetti :)**
 
+
+
 ## 🚀 Languages and Tools:
 
 <p align="left">
@@ -28,21 +30,23 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
-## 🚀 Currently I enjoy working with:
+
+
+### 🚀 Currently I enjoy working with:
 
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a>
 </p>
 
-## Connect with me:
+### Connect with me:
 
 <p align="left">
   <a href = "https://www.linkedin.com/in/marvellous-chimaraoke-3aa056208"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href = "https://twitter.com/RokeMarvellous"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
-## Views
+### Views
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Marvellous-Chimaraoke">
