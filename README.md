@@ -1,13 +1,49 @@
-- 👋 Hi, I’m @Marvellous-Chimaraoke
-- 👀 I’m interested in Backend Web Dvelopment..specifically Python(Django) for now..
-- 🌱 I’m currently learning JavaScript..hopefully React in the near future
-- 💞️ I’m looking to collaborate on any opensource projet willing to add a django dev into their team :)
-- 📫 How to reach me:
-https://twitter.com/RokeMavrellous
-rokemarvellous@gmail.com
-+2347048477377
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Marvellous</h1>
+<h3 align="center">I'm a passionate Back End Developer from Nigeria.</h3>
 
-<!---
-Marvellous-Chimaraoke/Marvellous-Chimaraoke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🙋‍♂️ About Me
+
+- 🌱 I’m currently levelling up my API building skills using **Django Rest Framework**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👯 I’m also open to **Junior Back End Developer roles** ( remote or not ;) )
+
+- 👨‍💻 All of my projects are available at **[My Portfolio Website](https://marvellousdev.herokuapp.com)**
+
+- ⚡ Fun fact **I love anime, basketball, video games and spaghetti :)**
+
+## 🚀 Languages and Tools:
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a>
+  <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/heroku.png"/> </a>
+  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+</p>
+
+## 🚀 Currently I enjoy working with:
+
+<p align="left">
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a>
+</p>
+
+## Connect with me:
+
+<p align="left">
+  <a href = "https://www.linkedin.com/in/marvellous-chimaraoke-3aa056208"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href = "https://twitter.com/RokeMarvellous"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+</p>
+
+## Views
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Marvellous-Chimaraoke">
+</a>
