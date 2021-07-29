@@ -9,9 +9,9 @@
 
 - 👯 I’m also open to **Junior Back End Developer roles** ( remote or not ;) )
 
-- 👨‍💻 All of my projects are available at **[My Portfolio Website](https://marvellousdev.herokuapp.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio Website](https://rokemavellous.herokuapp.com)**
 
-- ⚡ Fun fact **I love anime, basketball, video games and spaghetti :)**
+- ⚡ Fun fact  **I love anime, basketball, video games and spaghetti :)**
 
 
 
