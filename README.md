@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source python projects**
 
-- 🌱 I’m currently learning about **Go**
+<!-- - 🌱 I’m currently learning about **Go** -->
 
 - ⚡ Fun fact **I love anime, basketball, video games and spaghetti :)**
 
