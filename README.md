@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rokemarvellous" target="blank"><img src="https://img.shields.io/twitter/follow/rokemarvellous?logo=twitter&style=for-the-badge" alt="rokemarvellous" /></a> </p>
 
-- 🌱 I’m currently **levelling up my API building skills using Django Rest Framework**
+- 🌱 I’m currently learning **how to write Go code and Test Driven Development in Python**
 
 - 👯 I’m looking to collaborate on **Open Source python projects**
 
