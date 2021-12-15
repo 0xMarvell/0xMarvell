@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Marvellous</h1>
-<h3 align="center">Back End Developer on weekdays, Point Guard on weekends :)</h3>
+<h3 align="center">Back End Engineer on weekdays, Point Guard on weekends :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marvellous-chimaraoke&label=Profile%20views&color=0e75b6&style=flat" alt="marvellous-chimaraoke" /> </p>
 
