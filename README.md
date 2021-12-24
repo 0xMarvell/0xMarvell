@@ -23,7 +23,7 @@
 > Tools, languages, and other things that I like to work with.
 
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" width="96">
       <a href="#Marvellous-tech">
@@ -55,6 +55,10 @@
       </a>
       <br>Django
     </td>
+
+  </tr>
+  
+  <tr>
     <td align="center" width="96">
       <a href="#Marvellous-tech">
         <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="48" height="48" alt="Go" />
@@ -79,35 +83,13 @@
       </a>
       <br>Git
     </td>
-  </tr>
-  
-  <tr>
     <td align="center" width="96"> 
       <a href="#Marvellous-tech" >
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
       </a>
       <br>Postman
     </td>
-    <td align="center" width="96">
-      <a href="#Marvellous-tech" >
-        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-    </td>
-    <td align="center" width="96">
-    </td>
-    <td align="center" width="96">
-    </td>
-    <td align="center" width="96">
-    </td>
-    <td align="center" width="96">
-    </td>
-    <td align="center" width="96">
-    </td>
-    <td align="center" width="96">
-    </td>
+
   </tr>
     
 </table>
