@@ -1,6 +1,6 @@
 
 <h1 align="left" id="Marvellous-title">Hello:wave:, I'm Marvellous :)</h1>
-<h3 align="left">Backend Engineer on weekdays, Point Guard on weekends </h3>
+<h3 align="left">Backend Engineer on weekdays, Point Guard on weekends:basketball: </h3>
 
 
 <a href="#Marvellous-title">
