@@ -7,12 +7,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Marvellous-Chimaraoke&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Marvellous Chimaraoke" align="right" />
 </a>
 
-- 👯 I’m looking to collaborate on **Python(Django)** or **[Go]** projects
 - :seedling: &nbsp;I’m currently learning how to write clean **[Go]** code
-- :mailbox: &nbsp;Ask me about anything python related, I am happy to **help** :)
+- :page_facing_up: I'm currently available for hire so here's my <a href="https://drive.google.com/file/d/1WS8a-qZwF3Jh8zmoHHjI0djLpNRcT6qH/view?usp=sharing" _blank="True">resume</a>:upside_down_face: 
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Or Let's talk more on **[Twitter]**
-- ⚡ Fun fact: I love anime, basketball, video games and spaghetti :)
+- ⚡ Fun fact(s): I love anime, basketball, video games and spaghetti :)
 
 
 
