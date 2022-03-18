@@ -17,7 +17,7 @@
 
 <br>
 
-<h2 align="left" id="Marvellous-tech">Favorite Tech</h2>
+## Favorite Tech
 
 > Tools, languages, and other things that I like to work with.
 
@@ -100,3 +100,11 @@
 
 
 [![Marvellous' github activity graph](https://activity-graph.herokuapp.com/graph?username=Marvellous-Chimaraoke&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+## Some Featured Projects
+Aside from my pinned repos, here are some other projects I'm particularly proud of:
+ - [spotify-music-data](https://github.com/Marvellous-Chimaraoke/spotify-music-data)
+ - [currency-conversion-telegram-bot](https://github.com/Marvellous-Chimaraoke/currency-conversion-telegram-bot)
+ - [ChatApp-project](https://github.com/Marvellous-Chimaraoke/ChatApp-project)
+ 
