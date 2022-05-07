@@ -105,6 +105,6 @@
 ## Some Featured Projects
 Aside from my pinned repos, here are some other projects I'm particularly proud of:
  - [spotify-music-data](https://github.com/Marvellous-Chimaraoke/spotify-music-data)
- - [currency-conversion-telegram-bot](https://github.com/Marvellous-Chimaraoke/currency-conversion-telegram-bot)
+ - [HackerNews_CaseStudy](https://github.com/Marvellous-Chimaraoke/HackerNews_CaseStudy)
  - [ChatApp-project](https://github.com/Marvellous-Chimaraoke/ChatApp-project)
  
