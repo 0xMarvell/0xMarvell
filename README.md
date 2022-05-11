@@ -9,9 +9,9 @@
 
 - :seedling: &nbsp;I’m currently learning how to write clean **[Go]** code
 - :page_facing_up: I'm also currently available for hire. Here's my <a href="https://drive.google.com/file/d/1Rbpcex2n_c8dAanFshWSKRLMYxJTghik/view?usp=sharing"  target="_blank">CV</a>:upside_down_face: 
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Or if you prefer, we can talk on **[Twitter]**
-- ⚡ Fun fact(s): I love anime, basketball, football video games and spaghetti
+- :computer: &nbsp;Connect with me on **[LinkedIn]** 📘 or on **[Twitter]** 🐦
+
+- ⚡ Fun fact(s): I love anime, basketball, football, video games and spaghetti
 
 
 
