@@ -4,7 +4,7 @@
 
 
 <a href="#Marvellous-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marvellous-Chimaraoke&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Marvellous Chimaraoke" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marvellous-Chimaraoke&show_icons=true&theme=react&count_private=true" alt="Marvellous Chimaraoke" align="right" />
 </a>
 
 - :seedling: &nbsp;I’m currently learning how to write clean **[Go]** code
