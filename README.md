@@ -93,7 +93,7 @@
 </table>
 
 
-[linkedin]: https://www.linkedin.com/in/marvellous-chimaraoke/ "LinkedIn"
+[linkedin]: https://www.linkedin.com/in/0xMarvell/ "LinkedIn"
 [twitter]: https://twitter.com/0xMarvell "Twitter"
 [Go]: https://go.dev/ "Go"
 
