@@ -94,7 +94,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/marvellous-chimaraoke/ "LinkedIn"
-[twitter]: https://twitter.com/RokeMarvellous "Twitter"
+[twitter]: https://twitter.com/0xMarvell "Twitter"
 [Go]: https://go.dev/ "Go"
 
 
