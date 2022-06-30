@@ -2,24 +2,20 @@
 <h1 align="left" id="Marvellous-title">Hello:wave:, I'm Marvellous :)</h1>
 <h3 align="left">Software Engineer on weekdays, Shooting Guard on weekends:basketball: </h3>
 
-
 <a href="#Marvellous-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marvellous-Chimaraoke&show_icons=true&theme=react&count_private=true" alt="Marvellous Chimaraoke" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xMarvell&show_icons=true&theme=react&count_private=true" alt="Marvellous Chimaraoke" align="right" />
 </a>
 
 - :seedling: &nbsp;I’m currently learning how to write clean **[Go]** code
-- :page_facing_up: I'm also currently available for hire. Here's my <a href="https://drive.google.com/file/d/1Rbpcex2n_c8dAanFshWSKRLMYxJTghik/view?usp=sharing"  target="_blank">CV</a>:upside_down_face: 
+- :page_facing_up: I'm also currently available for hire. Here's my <a href="https://drive.google.com/file/d/1Rbpcex2n_c8dAanFshWSKRLMYxJTghik/view?usp=sharing"  target="_blank">CV</a>:upside_down_face:
 - :computer: &nbsp;Connect with me on **[LinkedIn]** or **[Twitter]**
 - ⚡ Fun fact(s): I love anime, basketball, football, video games and spaghetti
-
-
 
 <br>
 
 ## Favorite Tech
 
 > Tools, languages, and other things that I like to work with.
-
 
 <table align="left">
   <tr>
@@ -81,7 +77,7 @@
       </a>
       <br>Git
     </td>
-    <td align="center" width="96"> 
+    <td align="center" width="96">
       <a href="#Marvellous-tech" >
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
       </a>
@@ -89,21 +85,19 @@
     </td>
 
   </tr>
-    
-</table>
 
+</table>
 
 [linkedin]: https://www.linkedin.com/in/0xMarvell/ "LinkedIn"
 [twitter]: https://twitter.com/0xMarvell "Twitter"
 [Go]: https://go.dev/ "Go"
 
-
 [![Marvellous' github activity graph](https://activity-graph.herokuapp.com/graph?username=0xMarvell&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 ## Some Featured Projects
+
 Aside from my pinned repos, here are some other projects I'm particularly proud of:
- - [spotify-music-data](https://github.com/Marvellous-Chimaraoke/spotify-music-data)
- - [HackerNews_CaseStudy](https://github.com/Marvellous-Chimaraoke/HackerNews_CaseStudy)
- - [ChatApp-project](https://github.com/Marvellous-Chimaraoke/ChatApp-project)
- 
+
+- [spotify-music-data](https://github.com/Marvellous-Chimaraoke/spotify-music-data)
+- [HackerNews_CaseStudy](https://github.com/Marvellous-Chimaraoke/HackerNews_CaseStudy)
+- [ChatApp-project](https://github.com/Marvellous-Chimaraoke/ChatApp-project)
