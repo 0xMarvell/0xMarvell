@@ -25,15 +25,15 @@
   <tr>
     <td align="center" width="96">
       <a href="#Marvellous-tech">
-        <img src="https://brandlogos.net/wp-content/uploads/2012/04/html5-logo-vector-01.png" width="48" height="48" alt="HTML5" />
+        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="48" height="48" alt="HTML5" />
       </a>
       <br>HTML5
     </td>
     <td align="center" width="96">
       <a href="#Marvellous-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="48" height="48" alt="CSS3" />
       </a>
-      <br>Bootstrap
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#Marvellous-tech">
@@ -59,7 +59,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#Marvellous-tech">
-        <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="48" height="48" alt="Go" />
+        <img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" width="48" height="48" alt="Go" />
       </a>
       <br>Go
     </td>
@@ -98,7 +98,7 @@
 [Go]: https://go.dev/ "Go"
 
 
-[![Marvellous' github activity graph](https://activity-graph.herokuapp.com/graph?username=Marvellous-Chimaraoke&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Marvellous' github activity graph](https://activity-graph.herokuapp.com/graph?username=0xMarvell&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## Some Featured Projects
