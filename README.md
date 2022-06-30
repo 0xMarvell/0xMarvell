@@ -93,11 +93,3 @@
 [Go]: https://go.dev/ "Go"
 
 [![Marvellous' github activity graph](https://activity-graph.herokuapp.com/graph?username=0xMarvell&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## Some Featured Projects
-
-Aside from my pinned repos, here are some other projects I'm particularly proud of:
-
-- [spotify-music-data](https://github.com/Marvellous-Chimaraoke/spotify-music-data)
-- [HackerNews_CaseStudy](https://github.com/Marvellous-Chimaraoke/HackerNews_CaseStudy)
-- [ChatApp-project](https://github.com/Marvellous-Chimaraoke/ChatApp-project)
