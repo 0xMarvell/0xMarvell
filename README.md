@@ -13,9 +13,9 @@
 
 <br>
 
-## Favorite Tech
+## Tech Stack
 
-> Tools, languages, and other things that I like to work with.
+> Tools, languages, and other things that I work with.
 
 <table align="left">
   <tr>
