@@ -7,7 +7,7 @@
 </a>
 
 - :seedling: &nbsp;I’m currently learning how to write clean **[Go]** code
-<!--- - :page_facing_up: I'm also currently available for hire. Here's my <a href="https://drive.google.com/file/d/14IG54J2wXay3USEQ_luAgMxkrHpRLuab/view?usp=sharing"  target="_blank">CV</a>:upside_down_face: --->
+<!--- - :page_facing_up: I'm also currently available for hire. Here's my <ahref="https://drive.google.com/file/d/14IG54J2wXay3USEQ_luAgMxkrHpRLuab/view?usp=sharing"  target="_blank">CV</a>:upside_down_face: --->
 - :computer: &nbsp;Connect with me on **[LinkedIn]** or **[Twitter]**
 - ⚡ Fun fact(s): I love anime, basketball, football, video games and spaghetti
 
