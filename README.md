@@ -92,4 +92,4 @@
 [twitter]: https://twitter.com/0xMarvell "Twitter"
 [Go]: https://go.dev/ "Go"
 
-[![Marvellous' github activity graph](https://activity-graph.herokuapp.com/graph?username=0xMarvell&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--- [![Marvellous' github activity graph](https://activity-graph.herokuapp.com/graph?username=0xMarvell&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) --->
