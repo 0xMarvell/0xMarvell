@@ -3,7 +3,7 @@
 <h3 align="left">Software Engineer on weekdays, Shooting Guard on weekends:basketball: </h3>
 
 <a href="#Marvellous-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xMarvell&show_icons=true&theme=react&count_private=true" alt="Marvellous Chimaraoke" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xMarvell&show_icons=true&count_private=true" alt="Marvellous Chimaraoke" align="right" />
 </a>
 
 - :seedling: &nbsp;I’m currently learning how to write clean **[Go]** code
