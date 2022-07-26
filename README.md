@@ -4,6 +4,7 @@
 
 <a href="#Marvellous-title">
   <img src="https://github-readme-stats.vercel.app/api?username=0xMarvell&show_icons=true&count_private=true" alt="Marvellous Chimaraoke" align="right" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xMarvell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 - :seedling: &nbsp;I’m currently learning how to write clean **[Go]** code
