@@ -2,16 +2,10 @@
 <h1 align="left" id="Marvellous-title">Hello:wave:, I'm Marvellous :)</h1>
 <h3 align="left">Software Engineer on weekdays, Shooting Guard on weekends:basketball: </h3>
 
-<!--- <a href="#Marvellous-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xMarvell&show_icons=true&theme=react&count_private=true" alt="Marvellous Chimaraoke" align="right" />
-</a> --->
-
-- :seedling: &nbsp;I’m currently learning how to write clean **[Go]** code
-<!--- - :page_facing_up: I'm also currently available for hire. Here's my <ahref="https://drive.google.com/file/d/14IG54J2wXay3USEQ_luAgMxkrHpRLuab/view?usp=sharing"  target="_blank">CV</a>:upside_down_face: --->
+- :seedling: &nbsp;I’m currently learning Go
 - :computer: &nbsp;Connect with me on **[LinkedIn]** or **[Twitter]**
 - ⚡ Fun fact(s): I love anime, basketball, football, video games and spaghetti
 
-<br>
 
 ## Tech Stack
 
@@ -90,6 +84,3 @@
 
 [linkedin]: https://www.linkedin.com/in/0xMarvell/ "LinkedIn"
 [twitter]: https://twitter.com/0xMarvell "Twitter"
-[Go]: https://go.dev/ "Go"
-
-<!--- [![Marvellous' github activity graph](https://activity-graph.herokuapp.com/graph?username=0xMarvell&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) --->
