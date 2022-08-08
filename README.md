@@ -2,9 +2,9 @@
 <h1 align="left" id="Marvellous-title">Hello:wave:, I'm Marvellous :)</h1>
 <h3 align="left">Software Engineer on weekdays, Shooting Guard on weekends:basketball: </h3>
 
-<a href="#Marvellous-title">
+<!--- <a href="#Marvellous-title">
   <img src="https://github-readme-stats.vercel.app/api?username=0xMarvell&show_icons=true&theme=react&count_private=true" alt="Marvellous Chimaraoke" align="right" />
-</a>
+</a> --->
 
 - :seedling: &nbsp;I’m currently learning how to write clean **[Go]** code
 <!--- - :page_facing_up: I'm also currently available for hire. Here's my <ahref="https://drive.google.com/file/d/14IG54J2wXay3USEQ_luAgMxkrHpRLuab/view?usp=sharing"  target="_blank">CV</a>:upside_down_face: --->
