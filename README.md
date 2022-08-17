@@ -81,7 +81,8 @@
   </tr>
 
 </table>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xMarvell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xMarvell&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/0xMarvell/ "LinkedIn"
 [twitter]: https://twitter.com/0xMarvell "Twitter"
