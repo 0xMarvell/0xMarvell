@@ -4,7 +4,7 @@
 
 - :seedling: &nbsp;I’m currently learning Go, Data Structures and Algorithms 
 - :computer: &nbsp;Connect with me on **[LinkedIn]** or **[Twitter]**
-- ⚡ Fun fact(s): I love anime, basketball, football, video games and spaghetti
+- ⚡ Fun fact(s): I love basketball, football, anime, music and spaghetti
 
 
 ## Tech Stack
