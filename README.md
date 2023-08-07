@@ -2,10 +2,10 @@
 <h1 align="left" id="Marvellous-title">Hello:wave:, I'm Marvellous :)</h1>
 <h3 align="left">Software Engineer on weekdays, Shooting Guard on weekends:basketball: </h3>
 
-- :seedling: &nbsp;I’m currently learning Go, Data Structures and Algorithms 
-- :computer: &nbsp;Connect with me on **[LinkedIn]** or **[Twitter]**
-- ⚡ Fun fact(s): I love basketball, football, anime, music and spaghetti
-
+- 🌱: &nbsp;I’m currently learning C# and studying up on coding interview patterns
+- 🤝: &nbsp;I'm looking to collaborate on Open Source Golang or C#/.NET projects
+- 💻: &nbsp;Connect with me on **[LinkedIn]** or **[Twitter]**
+- ⚡ Fun fact(s): I love anime, basketball, football, video games and spaghetti
 
 ## Tech Stack
 
@@ -80,9 +80,43 @@
 
   </tr>
 
+  <tr>
+    <td align="center" width="96">
+      <a href="#Marvellous-tech">
+        <img src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" width="48" height="48" alt="Swagger" />
+      </a>
+      <br>Swagger
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailakar-tech">
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#Marvellous-tech">
+        <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="48" height="48" alt="Redis" />
+      </a>
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <a href="#Marvellous-tech" >
+        <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="#Marvellous-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/640px-Microsoft_.NET_logo.svg.png" width="48" height="48" alt=".NET" />
+      </a>
+      <br>.NET
+    </td>
+
+  </tr>
+
 </table>
 
-&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xMarvell&layout=compact&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMarvell&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,HTML,c%2B%2B,Ren'Py"/>
 
 [linkedin]: https://www.linkedin.com/in/0xMarvell/ "LinkedIn"
 [twitter]: https://twitter.com/nedum99 "Twitter"
