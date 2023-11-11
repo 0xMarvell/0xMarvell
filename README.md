@@ -3,7 +3,7 @@
 <h3 align="left">Software Engineer on weekdays, Shooting Guard on weekends:basketball: </h3>
 
 - 🌱: &nbsp;I’m currently learning C# and studying up on coding interview patterns
-- 🤝: &nbsp;I'm looking to collaborate on Open Source Golang or C#/.NET projects
+- 🤝: &nbsp;I'm looking to collaborate on Open Source Golang, Python or C#/.NET projects
 - 💻: &nbsp;Connect with me on **[LinkedIn]** or **[Twitter]**
 - ⚡ Fun fact(s): I love anime, basketball, football, video games and spaghetti
 
