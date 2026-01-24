@@ -1,7 +1,7 @@
 <h1 align="left" id="Marvellous-title">Hello :wave:, I'm Marvellous :)</h1>
 <h3 align="left">Software Engineer on weekdays, Shooting Guard on weekends :basketball: </h3>
 
-- 🤝: &nbsp;I'm looking to collaborate on Open Source Golang, Python, Java/Springboot or C#/.NET projects
+- I'm looking to collaborate on Open Source Golang, Python, Java/Springboot or C#/.NET projects
 
 ## Tech Stack
 
